@@ -1,0 +1,22 @@
+{
+  "name": "Kawan Sekos",
+  "short_name": "Kawan Sekos",
+  "start_url": "https://kosmedan.my.id/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6B35",
+  "icons": [
+    {
+      "src": "https://idlogos99-cloud.github.io/kawansekos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://idlogos99-cloud.github.io/kawansekos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
